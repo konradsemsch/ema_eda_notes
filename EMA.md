@@ -8,6 +8,8 @@
    
 3) **Prediction’s speculation:** for every prediction of a model, one should be able to understand how the prediction would change if the values of the variables included in the model changed.
 
+![Tree Model](img/tree_model.png)
+
 ## Black-box vs. Glass-box (White-box) models
 
 ## Model-specific vs. Model-agnostic methods
